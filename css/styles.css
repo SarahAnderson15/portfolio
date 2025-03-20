@@ -12,7 +12,7 @@ p{
     color: azure;
 }
 section{
-    background-color: rgb(67, 199, 155);
+    background-color: rgb(12, 4, 4);
 }
 #profile{
     justify-content: center;
@@ -21,15 +21,15 @@ section{
     width: 200px;
     border-radius: 50%;
     object-fit: cover;
-    align-items: center;
+    text-align: center;
     
 }
-a{
+nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: azure;
     font-size: 20px;
     text-align: center;
 }
 #rugby{
-    align-items: center;
+    text-align: center;
 }
