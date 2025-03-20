@@ -36,3 +36,12 @@ nav{
 header{
     background-color: blueviolet;
 }
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#about{
+    background-color: rgb(12, 4, 4);
+
+}
