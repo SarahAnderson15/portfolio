@@ -14,10 +14,12 @@ p{
 body{
     background-color: rgb(67, 199, 155);
 }
-profile{
+#profile{
     justify-content: center;
     background: rgb(128, 42, 128);
-    height: 500px;
-    width: 500px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
     
 }
