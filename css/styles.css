@@ -11,7 +11,7 @@ p{
     text-align: center;
     color: azure;
 }
-section{
+#hero{
     background-color: rgb(12, 4, 4);
 }
 #profile{
@@ -32,4 +32,7 @@ nav{
 }
 #rugby{
     text-align: center;
+}
+header{
+    background-color: blueviolet;
 }
