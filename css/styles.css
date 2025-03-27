@@ -12,12 +12,12 @@ p{
     color: azure;
 }
 #hero{
-    background-color: rgb(12, 4, 4);
+    background-color: rgba(240, 147, 243, 0.801);
 }
 #profile{
     display: flex;
     justify-content: center;
-    background: rgb(128, 42, 128);
+    background: rgb(240, 147, 243, 0.801);
     height: 200px;
     width: 200px;
     border-radius: 50%;
@@ -36,6 +36,8 @@ nav{
     text-align: center;
     justify-content: left;
     padding-left: 35%;
+    height:600px;
+    width: auto;
 }
 header{
     background-color: blueviolet;
@@ -47,20 +49,20 @@ h2{
     color: azure;
 }
 #about{
-    background-color: rgb(153, 57, 153);
+    background-color: rgb(240, 147, 243, 0.801);
 
 }
 #contact{
-    background-color: rgb(153, 57, 153);
+    background-color: rgb(240, 147, 243, 0.801);
 }
 #projects{
-    background-color: rgb(153, 57, 153);
+    background-color: rgb(240, 147, 243, 0.801);
 }
 body{
-    background-color: rgb(153, 57, 153);
+    background-color: rgb(240, 147, 243, 0.801);
 }
 a{
-    color: rgb(18, 3, 32);
+    color: rgb(59, 21, 95);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 li{
