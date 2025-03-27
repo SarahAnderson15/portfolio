@@ -54,3 +54,13 @@ h2{
 body{
     background-color: rgb(153, 57, 153);
 }
+a{
+    color: rgb(18, 3, 32);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
