@@ -42,6 +42,15 @@ h2{
     padding-left: 10px;
 }
 #about{
-    background-color: rgb(12, 4, 4);
+    background-color: rgb(153, 57, 153);
 
+}
+#contact{
+    background-color: rgb(153, 57, 153);
+}
+#projects{
+    background-color: rgb(153, 57, 153);
+}
+body{
+    background-color: rgb(153, 57, 153);
 }
