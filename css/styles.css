@@ -51,6 +51,17 @@ a{
 li{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-    
+
+}
+body{
+    background-image: url('wallpaper.jpg');
+}
+#about{
+    background-color: azure;
+}
+#contact{
+    background-color: azure;
+}
+#projects{
+    background-color: azure;
 }
