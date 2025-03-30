@@ -56,15 +56,19 @@ li{
 body{
     background-image: url('assets/wallpaper.jpg');
     background-size: cover;
-    background-position: center;
-    
+
 }
 #about{
     background-color: azure;
+    text-align: left;
 }
 #contact{
     background-color: azure;
+    text-align: left;
 }
 #projects{
     background-color: azure;
+}
+footer{
+    text-align: left;
 }
