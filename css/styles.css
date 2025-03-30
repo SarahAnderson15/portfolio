@@ -9,7 +9,7 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     text-align: center;
-    color: black;
+    color: white;
 }
 .image-container {
     display: flex;
@@ -33,15 +33,9 @@ nav{
     font-size: 20px;
     text-align: center;
 }
-#rugby{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    height:600px;
-    width: auto;
-}
 header{
     background-color: blueviolet;
+    height: 50px;
 }
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
