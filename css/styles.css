@@ -97,6 +97,14 @@ footer{
     color: black;
     position: fixed, top;
 }
+#contact-form{
+    background-color: azure;
+    padding-left: 18%;
+    padding-right: 18%;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
 form{
     background-color: azure;
     padding-left: 18%;
