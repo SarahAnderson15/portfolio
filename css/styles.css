@@ -66,6 +66,7 @@ li{
 body{
     background-image: url('.../assets/wallpaper.jpg');
     background-size: cover;
+    background-color: azure;
     
 }
 #hero{
