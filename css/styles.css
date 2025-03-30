@@ -102,21 +102,31 @@ footer{
 }
 #contact-form{
     background-color:#9bf5fa;
-    padding: 2opx;
-    text-align: left;
+    padding: 20px;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 }
 form{
     background-color:#9bf5fa;
     padding: 20px;
-    text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+    align-items: center;
+    margin: auto;
+    gap: 10px;
+    
+}
+input,textarea{
+    width: 100%;
+    padding:10px;
+    
 }
 button{
-    background-color: rgb(164, 124, 201);
+    background-color: blueviolet;
     color: white;
+    padding: 20px;
+    border-radius: 2px;
 
 }
 .project-images {
