@@ -73,7 +73,8 @@ li{
 body{
     padding: 20px;
     background-color:#9bf5fa;
-    
+    display: flex;
+    height: 100%;
 }
 #hero{
     padding: 20px;
@@ -86,8 +87,10 @@ body{
 }
 #contact{
     background-color: #9bf5fa;
-    text-align: left;
+    text-align: center;
     padding: 20px;
+    max-width:800px;
+    margin:auto;
 }
 #projects{
     background-color: #9bf5fa;
@@ -96,9 +99,10 @@ body{
 }
 footer{
     text-align: left;
-    background-color:#9bf5fa;
-    color: black;
-    position: fixed, top;
+    background-color:blueviolet;
+    color: white;
+    margin-top: auto;
+    padding: 10px;
 }
 #contact-form{
     background-color:#9bf5fa;
