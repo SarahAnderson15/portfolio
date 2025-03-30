@@ -41,6 +41,12 @@ nav{
     font-size: 20px;
     text-align: center;
     text-decoration: none;
+    padding: 15px 0;
+}
+nav a{
+    margin: 0 15px;
+    font-weight: bold;
+    font-size: 18px;
 }
 header{
     background-color: blueviolet;
@@ -66,8 +72,7 @@ li{
 
 }
 body{
-    background-image: url('.../assets/wallpaper.jpg');
-    background-size: cover;
+    padding: 20px;
     background-color:#9bf5fa;
     
 }
@@ -120,20 +125,4 @@ button{
     background-color: rgb(164, 124, 201);
     color: white;
 
-}
-#projects-1{
-    background-color:#9bf5fa;
-    padding-left: 12%;
-    padding-right: 12%;
-    text-align: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
-}
-#project-2{
-    background-color:#9bf5fa;
-    padding-left: 12%;
-    padding-right: 12%;
-    text-align: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
 }
