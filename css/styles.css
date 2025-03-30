@@ -75,6 +75,7 @@ body{
     background-color:#9bf5fa;
     display: flex;
     height: 100%;
+    flex-direction: column;
 }
 #hero{
     padding: 20px;
