@@ -57,22 +57,30 @@ li{
 body{
     background-image: url('assets/wallpaper.jpg');
     background-size: cover;
+    background-color: azure;
 }
 #hero{
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 18%;
+    padding-right: 18%;
     background-color: azure;
 }
 #about{
     background-color: azure;
     text-align: left;
+    padding-left: 18%;
+    padding-right: 18%;
 }
 #contact{
     background-color: azure;
     text-align: left;
+    padding-left: 18%;
+    padding-right: 18%;
 }
 #projects{
     background-color: azure;
+    padding-left: 18%;
+    padding-right: 18%;
+    text-align: left;
 }
 footer{
     text-align: left;
