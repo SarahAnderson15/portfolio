@@ -38,6 +38,7 @@ nav{
     color: black;
     font-size: 20px;
     text-align: center;
+    text-decoration: none;
 }
 header{
     background-color: blueviolet;
@@ -54,10 +55,12 @@ h2{
 a{
     color: rgb(59, 21, 95);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
 }
 li{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
 
 }
 body{
@@ -101,4 +104,8 @@ form{
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+}
+button{
+    background-color: rgb(164, 124, 201);
+
 }
