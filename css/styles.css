@@ -68,40 +68,40 @@ li{
 body{
     background-image: url('.../assets/wallpaper.jpg');
     background-size: cover;
-    background-color:#80f1f6;
+    background-color:#9bf5fa;
     
 }
 #hero{
     padding-left: 18%;
     padding-right: 18%;
-    background-color: #80f1f6;
+    background-color: #9bf5fa;
 }
 #about{
-    background-color:#80f1f6;
+    background-color:#9bf5fa;
     text-align: left;
     padding-left: 18%;
     padding-right: 18%;
 }
 #contact{
-    background-color: #80f1f6;
+    background-color: #9bf5fa;
     text-align: left;
     padding-left: 18%;
     padding-right: 18%;
 }
 #projects{
-    background-color: #80f1f6;
+    background-color: #9bf5fa;
     padding-left: 18%;
     padding-right: 18%;
     text-align: left;
 }
 footer{
     text-align: left;
-    background-color:#80f1f6;
+    background-color:#9bf5fa;
     color: black;
     position: fixed, top;
 }
 #contact-form{
-    background-color:#80f1f6;
+    background-color:#9bf5fa;
     padding-left: 18%;
     padding-right: 18%;
     text-align: left;
@@ -109,7 +109,7 @@ footer{
     font-size: 18px;
 }
 form{
-    background-color:#80f1f6;
+    background-color:#9bf5fa;
     padding-left: 18%;
     padding-right: 18%;
     text-align: left;
@@ -122,9 +122,17 @@ button{
 
 }
 #projects-1{
-    background-color:#80f1f6;
-    padding-left: 15%;
-    padding-right: 15%;
+    background-color:#9bf5fa;
+    padding-left: 12%;
+    padding-right: 12%;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+#project-2{
+    background-color:#9bf5fa;
+    padding-left: 12%;
+    padding-right: 12%;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
