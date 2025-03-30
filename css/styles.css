@@ -59,6 +59,7 @@ body{
 #hero{
     padding-left: 20%;
     padding-right: 20%;
+    background-color: azure;
 }
 #about{
     background-color: azure;
