@@ -124,8 +124,9 @@ input,textarea{
 button{
     background-color: blueviolet;
     color: white;
-    padding: 20px;
+    padding: 10px 15px;
     border-radius: 2px;
+    font-size: 16px;
 
 }
 .project-images {
