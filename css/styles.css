@@ -64,13 +64,6 @@ a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
 }
-li{
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-decoration: none;
-    text-align: left;
-
-}
 body{
     padding: 20px;
     background-color:#9bf5fa;
@@ -101,12 +94,12 @@ footer{
     background-color:blueviolet;
     color: white;
     margin-top: auto;
-    padding: 10px;
+    padding: 5px;
 }
 #contact-form{
     background-color:#9bf5fa;
     padding: 20px;
-    text-align: left;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 }
@@ -118,6 +111,8 @@ form{
     align-items: center;
     margin: auto;
     gap: 10px;
+    width: 60%;
+    max-width: 600px;
     
 }
 input,textarea{
