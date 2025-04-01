@@ -94,7 +94,10 @@ footer{
     background-color:blueviolet;
     color: white;
     margin-top: auto;
-    padding: 5px;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    font-size: 14px;
 }
 button{
     background-color: blueviolet;
