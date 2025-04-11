@@ -16,7 +16,7 @@ p{
     font-size: 18px;
     text-align: left;
     color: black;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .image-container {
     display: flex;
@@ -34,68 +34,128 @@ p{
     text-align: center;
     overflow: hidden;
 }
-nav{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #80f1f6;
-    font-size: 20px;
-    text-align: center;
-    text-decoration: none;
-    padding: 15px 0;
-}
-nav a{
-    margin: 0 15px;
-    font-weight: bold;
-    font-size: 18px;
-}
-header{
+.nav-bar{
+    width: 100%;
+    display: flex;
     background-color: blueviolet;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    list-style: none;
+    padding: 12px 20px;
     height: 50px;
+}
+.menu {display: flex;}
+.menu li {padding-left: 30px;}
+.menu li a {
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     justify-content: center;
+    transition: 0.15s ease-in-out;
+    position: relative;
+    text-transform: uppercase;
 }
+.menu li a::after{
+    content:"" ;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: blueviolet;
+    transition: 0.15s ease-in-out;
+}
+.menu li a:hover:after{width: 100%;}
+.open-menu, .close-menu{
+    position: absolute;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+    display: none; 
+}
+.open-menu{
+    top:50%;
+    right: 20px;
+    transform: translateY(-50%);
+
+}
+.close-menu{
+    top: 20px;
+    right:20px;
+}
+#check{display: none;}
+@media(max-width:610px){
+    .menu{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+        width: 80%;
+        height:100vh;
+        position:fixed;
+        top:0;
+        right:-100%;
+        z-index: 100;
+        background-color: blueviolet;
+        transition: all 0.2s ease-in-out;
+    }
+    .menu li{margin-top: 40px;}
+    .menu li a{padding:10px}
+    .open-menu, .close-menu{display: block;}
+    #check:checked ~ .menu {right: 0;}
+}
+
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    padding-left: 10px;
+    /* padding-left: 10px; */
     color: black;
 }
 a{
     color: rgb(59, 21, 95);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 body{
-    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
     background-color:#9bf5fa;
+    /* background-image: url('wallpaper2.jpg'); */
+    background-size: cover;
 }
 #hero{
-    padding: 20px;
+    /* padding: 20px; */
     background-color: #9bf5fa;
 }
 #about{
     background-color:#9bf5fa;
     text-align: left;
-    padding: 20px;
+    /* padding: 20px; */
 }
 #contact{
     background-color: #9bf5fa;
     text-align: center;
-    padding: 20px;
+    /* padding: 20px; */
     max-width:800px;
     margin:auto;
+    
 }
-#projects{
+#projects-1,#projects-2, #projects-3{
     background-color: #9bf5fa;
-    padding: 20px;
+    /* padding: 20px; */
     text-align: left;
+
 }
 footer{
     text-align: left;
-    background-color:blueviolet;
-    color: white;
+    background-color: #9bf5fa;
     margin-top: auto;
-    padding: 10px 0;
-    position: fixed;
+    /* padding: 10px 0; */
+    /* position: relative; */
     bottom: 0;
     font-size: 14px;
 }

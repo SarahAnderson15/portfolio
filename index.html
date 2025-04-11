@@ -5,38 +5,45 @@
       <meta name="viewport" content="width=device-width, intial-scale=1.0">  
       <title>My Portfolio</title>
       <link rel="stylesheet" href="css/styles.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body>
         <!--navigation--> 
-        <header>
-            <nav>
-                <a href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="contact.html">Contact</a>
-                <a href="projects.html">Projects</a>
-            </nav>
-        </header>
-        <br>
-        <!--hero section-->
-        <section id="hero">
-            <div>
-            <h1>Hello! My Name is Sarah Anderson</h1>
-            </div>
-            <div class="image-container">
-            <img id="profile" src="assets/profile_image.jpg" alt="a photo of Sarah">
-            </div>
-            <p>I'm a Front-End Developer passionate about creating fast, responsive, and visually appealing websites. I specialize in HTML,CSS,JavaScript and Shopify Liquid, interactive elements, and optimized performance.</p>
+    <header>
+        <nav>
+            <ul class="nav-bar">
+              <input type="checkbox" id="check">
+              <span class="menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
+              </span>
+              <label for="check" class="open-menu"><i class="fas fa-bars"></i></label>
+        </ul> 
+        </nav>
+    </header>
+    <br>
+    <!--hero section-->
+    <section id="hero">
+        <div>
+        <h1>Hello! My Name is Sarah Anderson</h1>
+        </div>
+        <div class="image-container">
+        <img id="profile" src="assets/profile_image.jpg" alt="a photo of Sarah">
+        </div>
+        <p>I'm a Front-End Developer passionate about creating fast, responsive, and visually appealing websites. I specialize in HTML,CSS,JavaScript and Shopify Liquid, interactive elements, and optimized performance.</p>
 
-            <p>Based in Hampshire, UK, I thrive on solving problems through code and delivering seamless user experiences. Check out my latest projects below!</p>
+        <p>Based in Hampshire, UK, I thrive on solving problems through code and delivering seamless user experiences. Check out my latest projects below!</p>
 
-            <button onclick="window.location.href='projects.html'"> View Sarah's projects</button>
-        </section>
-       
+        <button onclick="window.location.href='projects.html'"> View Sarah's projects</button>
+    </section>
+
      <!--footer-->
      <footer> 
         <p> &copy; 2025 Sarah Anderson. All rights reserved</p>
      </footer>
-
-
+     
     </body>
 </html>
