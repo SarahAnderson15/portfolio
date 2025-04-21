@@ -9,7 +9,7 @@ skills, experiences, and personal projects.
 - contact section - how to get in touch.
 - Projects page - more information about my project I have done and currently doing.
 - Responsive navigation bar: 
-[Desktop navigation](C:\Users\Sarah Stephenson\OneDrive - Rooster Sailing\Documents\Prodject_work\portfolio\assets\screenshots\desktop.jpg) 
+[Desktop navigation](\assets\screenshots\desktop.jpg) 
 [Mobile navigation](assets\screenshots\nav_mob.jpg)
 
 ## Technologies Used
