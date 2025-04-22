@@ -9,8 +9,8 @@ skills, experiences, and personal projects.
 - contact section - how to get in touch.
 - Projects page - more information about my project I have done and currently doing.
 - Responsive navigation bar: 
-[Desktop navigation](\assets\screenshots\desktop.jpg) 
-[Mobile navigation](assets\screenshots\nav_mob.jpg)
+[Desktop navigation](assets/screenshots/desktop.jpg) 
+[Mobile navigation](assets/screenshots/nav_mob.jpg)
 
 ## Technologies Used
 - HTML
