@@ -11,6 +11,10 @@ skills, experiences, and personal projects.
 - Responsive navigation bar: 
 [Desktop navigation](assets/screenshots/desktop.jpg) 
 [Mobile navigation](assets/screenshots/nav_mob.jpg)
+- Responsive image content:
+[Desktop project page](assets/screenshots/project_page_desktop.jpg)
+[Tablet project page](assets/screenshots/project_page_tablet.jpg)
+[Mobile project page](assets/screenshots/project_page_mobile.jpg)
 
 ## Technologies Used
 - HTML
