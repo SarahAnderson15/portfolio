@@ -8,10 +8,10 @@ skills, experiences, and personal projects.
 - about page- with information all about me and my careers and expirence. 
 - contact section - how to get in touch.
 - Projects page - more information about my project I have done and currently doing.
-- Responsive navigation bar: 
+- Responsive navigation bar bewtween desktop and mobile view: 
 [Desktop navigation](assets/screenshots/desktop.jpg) 
 [Mobile navigation](assets/screenshots/nav_mob.jpg)
-- Responsive image content:
+- Responsive image content layout between desktop,tablet and mobile:
 [Desktop project page](assets/screenshots/project_page_desktop.jpg)
 [Tablet project page](assets/screenshots/project_page_tablet.jpg)
 [Mobile project page](assets/screenshots/project_page_mobile.jpg)
