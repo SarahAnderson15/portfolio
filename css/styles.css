@@ -46,6 +46,7 @@ p{
     /* padding: 12px 20px; */
     height: 50px;
     margin-left: -20px;
+    margin-right:-20px;
 }
 .menu {display: flex;}
 .menu li {padding-left: 30px;}
@@ -127,6 +128,9 @@ body{
     background-color:#9bf5fa;
     /* background-image: url('wallpaper2.jpg'); */
     background-size: cover;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 #hero{
     /* padding: 20px; */
@@ -159,6 +163,7 @@ footer{
     /* position: relative; */
     bottom: 0;
     font-size: 14px;
+    
 }
 button{
     background-color: blueviolet;
@@ -179,4 +184,7 @@ button{
     width: 100%;
     height: auto;
     border-radius: 10px;
+}
+html{
+    height: 100%;
 }
