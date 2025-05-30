@@ -16,7 +16,6 @@ p{
     font-size: 18px;
     text-align: left;
     color: black;
-    /* padding: 20px; */
 }
 .image-container {
     display: flex;
@@ -43,7 +42,6 @@ p{
     justify-content: center;
     position: relative;
     list-style: none;
-    /* padding: 12px 20px; */
     height: 50px;
     margin-left: -20px;
     margin-right:-20px;
@@ -114,44 +112,37 @@ p{
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    /* padding-left: 10px; */
     color: black;
 }
 a{
     color: rgb(59, 21, 95);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* text-decoration: none; */
 }
 body{
     padding-right: 20px;
     padding-left: 20px;
     background-color:#9bf5fa;
-    /* background-image: url('wallpaper2.jpg'); */
     background-size: cover;
     min-height: 100%;
     display: flex;
     flex-direction: column;
 }
 #hero{
-    /* padding: 20px; */
     background-color: #9bf5fa;
 }
 #about{
     background-color:#9bf5fa;
     text-align: left;
-    /* padding: 20px; */
 }
 #contact{
     background-color: #9bf5fa;
     text-align: center;
-    /* padding: 20px; */
     max-width:800px;
     margin:auto;
     
 }
 #projects-1,#projects-2, #projects-3{
     background-color: #9bf5fa;
-    /* padding: 20px; */
     text-align: left;
 
 }
@@ -159,8 +150,6 @@ footer{
     text-align: left;
     color: white;
     margin-top: auto;
-    /* padding: 10px 0; */
-    /* position: relative; */
     bottom: 0;
     font-size: 14px;
     
