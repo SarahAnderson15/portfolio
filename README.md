@@ -23,6 +23,9 @@ skills, experiences, and personal projects.
 ## Sources Used
 - stylesheet for navigation : https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
 
+## Accessibility
+- I have run my the lighthouse ipectction to check the accessbilty leve of my site: [Accessibility & Performance](assets/screenshots/accessability.png)
+
 ## Getting Started 
  1. Clone the repository:
  2. Open 'index.html' in your browswer.
