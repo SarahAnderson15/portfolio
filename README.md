@@ -26,10 +26,12 @@ skills, experiences, and personal projects.
 - stylesheet for navigation : https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
 
 ## Accessibility
-- I have run my the lighthouse ipectction to check the accessbilty leve of my site: [Accessibility & Performance](assets/screenshots/accessability.png)
+- I have run my the lighthouse ipectction to check the accessbilty leve of my site: [Accessibility & Performance](assets/screenshots/accessability_1.png)
 
 ## valitation 
-- I ran my code through a code validator to ensure there are no errors: Html : https://validator.w3.org/#validate_by_input css: https://jigsaw.w3.org/css-validator/
+- I ran my code through a code validator to ensure there are no errors: 
+ html : https://validator.w3.org/#validate_by_input See results [here](assets/screenshots/html_checker.png)
+ css: https://jigsaw.w3.org/css-validator/  See results [here](assets/screenshots/css_checker.png)
 
 ## Getting Started 
  1. Clone the repository:
@@ -41,3 +43,5 @@ skills, experiences, and personal projects.
  2. From the source section drop-down menu, select the Main Branch, then click "Save".
  3. The page will be automatically refreshed with a detailed ribbion display to indicate the successful deployment. 
   The live link can be found [here](https://SarahAnderson15.github.io/portfolio) 
+
+
