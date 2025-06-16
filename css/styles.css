@@ -43,8 +43,7 @@ p{
     position: relative;
     list-style: none;
     height: 50px;
-    /* margin-left: -20px;
-    margin-right:-20px; */
+    
 }
 .menu {display: flex;}
 .menu  {padding-left: 30px;}
