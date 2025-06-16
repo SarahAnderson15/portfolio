@@ -15,6 +15,8 @@ skills, experiences, and personal projects.
 [Desktop project page](assets/screenshots/project_page_desktop.jpg)
 [Tablet project page](assets/screenshots/project_page_tablet.jpg)
 [Mobile project page](assets/screenshots/project_page_mobile.jpg)
+[Mobile project images](assets/screenshots/project_holding_image_mob.png)
+[Desktop projecy images](assets/screenshots/project_holding_image_desk.png)
 
 ## Technologies Used
 - HTML
@@ -26,11 +28,16 @@ skills, experiences, and personal projects.
 ## Accessibility
 - I have run my the lighthouse ipectction to check the accessbilty leve of my site: [Accessibility & Performance](assets/screenshots/accessability.png)
 
+## valitation 
+- I ran my code through a code validator to ensure there are no errors: Html : https://validator.w3.org/#validate_by_input css: https://jigsaw.w3.org/css-validator/
+
 ## Getting Started 
  1. Clone the repository:
  2. Open 'index.html' in your browswer.
 
- ## Live Demo
- [view Portfolio](https://SarahAnderson15.github.io/portfolio) 
-
-[def]: assets\screenshots\nav_mob.jpg
+ ## Deployment
+ - Deployement to GitHub Pages. The steps to deploy are as follows:
+ 1. In the [GitHub respository](https://github.com/SarahAnderson15/portfolio), navigate to the settings tab.
+ 2. From the source section drop-down menu, select the Main Branch, then click "Save".
+ 3. The page will be automatically refreshed with a detailed ribbion display to indicate the successful deployment. 
+  The live link can be found [here](https://SarahAnderson15.github.io/portfolio) 
